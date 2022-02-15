@@ -4,10 +4,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 February, 2022 - 13 February, 2022
+Week: 08 February, 2022 - 14 February, 2022
 
-Python   1 hr 1 min      ███████████████████████▒░   93.27 % 
-Text     1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
-TOML     1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+Python       6 hrs 27 mins   █████████████████████░░░░   84.43 % 
+YAML         34 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+Markdown     22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+JSON         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+Git Config   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 ```
 <!--END_SECTION:waka-->
