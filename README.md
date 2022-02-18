@@ -4,14 +4,14 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 10 February, 2022 - 16 February, 2022
+Week: 11 February, 2022 - 17 February, 2022
 
-Total: 8 hrs 11 mins
+Total: 18 hrs 2 mins
 
-Python     7 hrs 35 mins   ███████████████████████░░   92.64 % 
-HTML       9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
-YAML       9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
-Markdown   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
-JSON       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+Python    17 hrs 9 mins   ███████████████████████▓░   94.63 % 
+JSON      14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+HTML      9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+YAML      9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+RPMSpec   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 ```
 <!--END_SECTION:waka-->
