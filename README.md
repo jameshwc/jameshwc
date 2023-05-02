@@ -5,7 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 April 2019 - To: 29 April 2023
+From: 13 April 2019 - To: 30 April 2023
 
 Go                986 hrs 10 mins █████████▓░░░░░░░░░░░░░░░   39.26 %
 Python            574 hrs 13 mins █████▓░░░░░░░░░░░░░░░░░░░   22.86 %
