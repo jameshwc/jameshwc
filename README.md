@@ -4,7 +4,7 @@
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 From: 13 April 2019 - To: 01 June 2023
 
 Go                1,019 hrs 47 mins██████████░░░░░░░░░░░░░░░   39.49 %
